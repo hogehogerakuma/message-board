@@ -2,7 +2,7 @@
 
 @section('content')
 
-  <h>メッセージ一覧</h>
+  <h1>メッセージ一覧</h1>
 
   @if (count($messages) > 0)
       <ul>
